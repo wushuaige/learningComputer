@@ -1,0 +1,33 @@
+java 
+使用过的框架：spring、springMVC、mybatis、struts2、hibernate等等
+技术栈：dubbo、zookeeper、redis、rabbitmq、activemq、mysql、sqlserver、tomcat、springcloud、solr等等
+
+大数据：
+	hadoop：
+		HDFS(Hadoop D分布式 File System)、MapReduce、Yarn、Zookeeper、Flume、Hive、HBase、Sqoop
+	Scala：
+	Spark：
+	Flink：
+	Elasticsearch
+	hadoop受到google lab的开发的Map/Reduce和Google File System启发：
+		GFS === 》 HDFS
+		Map/Reduce === >MR
+		BigTable === > HBase
+	三个版本：Apache、Cloudera(Cloudera's DistributionIncluding Apache Hadoop CDH)、Hortonworks
+	Cloudera与Hortonworks2018年10月宣布合并
+	内存条买DDR4/DDR3
+
+scala：
+	web框架：Lift框架、Play框架
+	
+linux：
+	ubantu、redhat、contos7等等
+	
+perl：
+
+go：
+
+ruby：
+
+C/C++:
+
